@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"webtest/service"
+	"awesome.project/webtest/service"
 )
 
 func main() {
